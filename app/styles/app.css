@@ -1,0 +1,52 @@
+.page-title {
+    margin: 2.5rem 0;
+    color: #fff;
+    font-family: 'Roboto Mono', monospace;
+}
+.sub-title {
+    color: #fff;
+    margin: 1rem 0;
+    font-family: 'Roboto Mono', monospace;
+}
+body {
+    background: linear-gradient(0deg, #B2BAC0, #283f51 90%);
+    background-attachment: fixed;
+}
+h1 {
+    font-size: 2.5rem;
+}
+h4 {
+    font-size: 1.3rem;
+}
+a {
+    color: #fff
+}
+a:hover {
+    color: #fff;
+    font-weight: bold;
+}
+input[type=text] {
+    box-shadow: none;
+}
+.top-bar, .top-bar ul {
+    background-color: #324859;
+    font-family: 'Roboto Mono', monospace;
+}
+.menu-text, h3, h4, p, ul, button {
+    color: #fff;
+    font-family: 'Roboto Mono', monospace;
+}
+.justified, ul {
+    text-align: justify;
+}
+.area-div {
+    margin: 2.5rem 0;
+}
+.linum-link {
+    text-decoration: underline;
+}
+.linum-link:hover {
+    cursor: pointer;
+    text-decoration: none;
+    font-weight: bold
+}
