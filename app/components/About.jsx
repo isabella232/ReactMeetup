@@ -3,8 +3,11 @@ var {Link} = require('react-router');
 
 var About = (props) => {
         return (
-            <div>
+            <div className="columns medium-10 large-6 small-centered">
                 <h1 className="text-center page-title">About</h1>
+                <div className="area-div">
+                    <p className="text-center"><img src="img/Ethereum_SA.png" className="ethZA" /></p>
+                </div>
                 <p className="justified">The MeetupToken is a community-driven project intended to introduce newcomers to Ethereum
                     to some of the basic technologies that the combination of decentralized networks and cryptographic tools
                     make possible.</p>

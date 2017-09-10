@@ -42,6 +42,9 @@ input[type=text] {
 .area-div {
     margin: 2.5rem 0;
 }
+.areas {
+    width: 80%;
+}
 .linum-link {
     text-decoration: underline;
 }
@@ -49,4 +52,8 @@ input[type=text] {
     cursor: pointer;
     text-decoration: none;
     font-weight: bold
+}
+.ethZA {
+    width: 20%;
+    height: 20%;
 }

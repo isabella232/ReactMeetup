@@ -81,7 +81,7 @@ var SendToken = React.createClass({
         }
 
         return (
-            <div>
+            <div className="columns medium-6 large-4 small-centered">
                 <h1 className="text-center page-title">Share the Love</h1>
                 <h4 className="text-center sub-title">Send Your Tokens Anywhere!</h4>
                 <SendForm onSend={this.handleSend}/>

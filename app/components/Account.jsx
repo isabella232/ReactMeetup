@@ -47,7 +47,7 @@ var Account = React.createClass({
   render: function() {
         var {account, balance} = this.state;
         return (
-            <div>
+            <div className="columns medium-6 large-4 small-centered">
                 <h1 className="text-center page-title">Account</h1>
                 <p className="text-center">{account}</p>
                 <p className="text-center">Your MET balance: {balance}</p>
