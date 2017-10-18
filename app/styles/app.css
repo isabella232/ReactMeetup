@@ -28,6 +28,21 @@ a:hover {
 input[type=text] {
     box-shadow: none;
 }
+input[type=file] {
+    display: none;
+}
+.custom-file-upload {
+    border: 1px solid #ccc;
+    display: inline-block;
+    padding: 6px 12px;
+    cursor: pointer;
+    color: #fff;
+    margin: 5px 0;
+}
+.custom-file-upload:hover {
+    color: #324859;
+    background-color: #fff;
+}
 .top-bar, .top-bar ul {
     background-color: #324859;
     font-family: 'Roboto Mono', monospace;

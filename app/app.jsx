@@ -5,6 +5,7 @@ var Main = require('Main');
 var SendToken = require('SendToken');
 var About = require('About');
 var LinumLabs = require('LinumLabs');
+var Certificates = require('Certificates');
 
 // Load foundation
 require('style!css!foundation-sites/dist/foundation.min.css');
@@ -16,6 +17,7 @@ require('style!css!applicationStyles')
 ReactDOM.render(
     <Router history={hashHistory}>
         <Route path="/" component={Main}>
+            <Route path="certificates" component={Certificates}/>
             <Route path="about" component={About}/>
             <Route path="examples" component={LinumLabs}/>
             <IndexRoute component={SendToken}/>

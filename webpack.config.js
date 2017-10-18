@@ -27,9 +27,9 @@ module.exports = {
             SendToken: 'app/components/SendToken.jsx',
             SendForm: 'app/components/SendForm.jsx',
             TokenMessage: 'app/components/TokenMessage.jsx',
+            Certificates: 'app/components/Certificates.jsx',
             About: 'app/components/About.jsx',
             LinumLabs: 'app/components/LinumLabs.jsx',
-            getWeb3: 'app/api/getWeb3.jsx',
             applicationStyles: 'app/styles/app.css'
         },
         extensions: ['', '.js', '.jsx', '.json']
