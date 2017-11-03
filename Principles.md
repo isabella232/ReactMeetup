@@ -1,5 +1,7 @@
 # Community Principles
 
+Status Open Bounty Demo
+
 ## Overview 
 
 Transactions are only a subset of human communication and interaction. Though they define what is valuable, as well as the means or protocol by which we move and secure that value, it takes a community to invest any given transaction with meaning.
