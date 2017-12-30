@@ -15,6 +15,9 @@ I have looked at various notions of community for this initial draft, from Afric
 
 It's no mistake that the most popular OS on web servers and other machines that leverage open source technology is called Ubuntu. Mark Shuttleworth was referencing an old and deep African concept that, on the surface, signifies our interconnectedness and interdependence. It comes from the saying *'umuntu ngumuntu ngabantu'*; a human being is a human being only through other human beings. Deeper down, though, ubuntu has to do with the structure and pattern of the universe itself, the fine balance it maintains, with humanity as the harmonising note between natural and supernatural. A little cosmic for the introducion, but we might as well start big. Ubuntu underpins all of the below, much like it probably runs the server from which you are receiving this content. Server... another interesting word.
 
+30/12/2017
+I have changed the order slightly for reasons of emphasis. I am also removing the bounty for now so that I can use it for other [purposes](https://github.com/andytudhope/StatusSeekers/issues/2).
+
 ## Principles
 
 *1) We share, therefore we are*
